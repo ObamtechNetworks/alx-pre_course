@@ -1,14 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 ALX School
-=======
-ALX School is so cool
->>>>>>> Hot fix
-=======
-ALX School
->>>>>>> roll back
-=======
-ALX School
->>>>>>> Revert "Resolved merge conflicts by keeping 0x01-git/bash/alx file"
